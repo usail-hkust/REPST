@@ -12,7 +12,7 @@
 ---
 >
 > 🙋 Please let us know if you find out a mistake or have any suggestions!
-> 
+> 🐝 The full version of this paper can be accessed at https://arxiv.org/abs/2408.14505.
 > 🌟 If you find this resource helpful, please consider to star this repository and cite our research:
 
 ```
