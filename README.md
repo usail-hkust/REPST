@@ -41,19 +41,17 @@ This repository contains the implementation of REPST, a framework for spatio-tem
 ## Requirements
 Use python 3.11 from MiniConda
 
-- torch==2.2.2
+- torch==2.0.1
 - accelerate==0.28.0
-- einops==0.7.0
+- einops==0.6.0
 - matplotlib==3.7.0
-- numpy==1.23.5
-- pandas==1.5.3
-- scikit_learn==1.2.2
-- scipy==1.12.0
-- tqdm==4.65.0
-- peft==0.4.0
-- transformers==4.31.0
-- deepspeed==0.14.0
-- sentencepiece==0.2.0
+- numpy==1.24.4
+- pandas==2.1.4
+- scikit_learn==1.3.2
+- scipy==1.11.4
+- tqdm==4.66.1
+- transformers==4.36.2
+
 
 To install all dependencies:
 ```
